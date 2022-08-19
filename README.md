@@ -2,7 +2,7 @@
 自研目录备份还原工具，基于rsync开发
 
 # 基本介绍
-具体的功能设计查看 Rsync备份还原功能设计.png
+具体的功能设计查看 Rsync备份还原功能设计.png  
 以及相关基础知识 https://jailbreakfox.github.io/2022/07/10/Rsync备份还原/
 
 # 编译方法(不依赖任何库)
